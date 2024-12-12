@@ -334,11 +334,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(420,290)" to="(420,350)"/>
     <wire from="(300,680)" to="(300,800)"/>
     <wire from="(650,320)" to="(660,320)"/>
-    <comp lib="6" loc="(1059,131)" name="Text">
-      <a name="text" val="Grupo:"/>
-      <a name="font" val="SansSerif bold 14"/>
-      <a name="halign" val="left"/>
-    </comp>
     <comp loc="(790,420)" name="Registrador B"/>
     <comp lib="6" loc="(1058,420)" name="Text">
       <a name="text" val="- 1010: decrementar valor no acumulador em 1"/>
@@ -462,6 +457,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="north"/>
       <a name="label" val="Cp"/>
     </comp>
+    <comp lib="6" loc="(1061,66)" name="Text">
+      <a name="text" val="- Gustavo Pereira Rodrigues"/>
+      <a name="font" val="SansSerif plain 14"/>
+      <a name="halign" val="left"/>
+    </comp>
     <comp lib="6" loc="(1091,649)" name="Text">
       <a name="text" val="- André Santos Alves"/>
       <a name="font" val="SansSerif plain 14"/>
@@ -474,11 +474,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(880,860)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="label" val="CLR"/>
-    </comp>
-    <comp lib="6" loc="(1060,154)" name="Text">
-      <a name="text" val="- André Luís Silva de Paula"/>
-      <a name="font" val="SansSerif plain 14"/>
-      <a name="halign" val="left"/>
     </comp>
     <comp lib="0" loc="(490,870)" name="Tunnel">
       <a name="facing" val="north"/>
@@ -571,12 +566,22 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="facing" val="north"/>
       <a name="label" val="Lsr"/>
     </comp>
+    <comp lib="6" loc="(1061,157)" name="Text">
+      <a name="text" val="- Lucas Castro Nominato de Oliveira"/>
+      <a name="font" val="SansSerif plain 14"/>
+      <a name="halign" val="left"/>
+    </comp>
     <comp loc="(370,570)" name="Registrador Instruções"/>
     <comp lib="0" loc="(880,360)" name="Tunnel">
       <a name="label" val="Lsr"/>
     </comp>
     <comp lib="6" loc="(1090,689)" name="Text">
       <a name="text" val="- Pedro Malta Boscatti"/>
+      <a name="font" val="SansSerif plain 14"/>
+      <a name="halign" val="left"/>
+    </comp>
+    <comp lib="6" loc="(1061,133)" name="Text">
+      <a name="text" val="- Anna Elisa Barbosa Maciel"/>
       <a name="font" val="SansSerif plain 14"/>
       <a name="halign" val="left"/>
     </comp>
@@ -653,6 +658,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(880,300)" name="Tunnel">
       <a name="label" val="Div"/>
     </comp>
+    <comp lib="6" loc="(1060,110)" name="Text">
+      <a name="text" val="- Pedro Bernardes Viana"/>
+      <a name="font" val="SansSerif plain 14"/>
+      <a name="halign" val="left"/>
+    </comp>
     <comp lib="6" loc="(1058,442)" name="Text">
       <a name="text" val="- 1011: salvar valor do acumulador na RAM"/>
       <a name="font" val="SansSerif italic 14"/>
@@ -685,6 +695,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="6" loc="(1059,354)" name="Text">
       <a name="text" val="- 0111: verificar se o valor do acumulador é igual"/>
       <a name="font" val="SansSerif italic 14"/>
+      <a name="halign" val="left"/>
+    </comp>
+    <comp lib="6" loc="(1061,42)" name="Text">
+      <a name="text" val="Grupo:"/>
+      <a name="font" val="SansSerif bold 14"/>
       <a name="halign" val="left"/>
     </comp>
     <comp lib="0" loc="(180,870)" name="Tunnel">
@@ -794,6 +809,11 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="color" val="#00d200"/>
       <a name="offcolor" val="#002900"/>
       <a name="bg" val="#1b1b1b"/>
+    </comp>
+    <comp lib="6" loc="(1061,88)" name="Text">
+      <a name="text" val="- Pedro Henrique Pereira de Alexandria"/>
+      <a name="font" val="SansSerif plain 14"/>
+      <a name="halign" val="left"/>
     </comp>
     <comp lib="0" loc="(830,690)" name="Pin">
       <a name="facing" val="north"/>
